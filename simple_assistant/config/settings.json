@@ -1,0 +1,4 @@
+ {
+    "default_similarity_threshold": 0.3,
+    "glossary_data_path": "temp/gloss.json"
+ }
